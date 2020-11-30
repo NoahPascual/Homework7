@@ -1,6 +1,6 @@
 ﻿// Noah Pascual
 // MIS 3013 995
-// Homework 7 - Classes
+// Homework 7 - Classes  
 
 // You will be creating a student class using the UML below. 
 // In your Program.cs in the Main method, make 3 instances (objects) of the Student class using each type of constructor and then populate them with data (hard-coded). 
